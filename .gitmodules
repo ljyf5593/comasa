@@ -1,0 +1,30 @@
+[submodule "kohana/modules/admin"]
+	path = kohana/modules/admin
+	url = git://github.com/ljyf5593/admin.git
+[submodule "kohana/modules/media"]
+	path = kohana/modules/media
+	url = git://github.com/ljyf5593/media.git
+[submodule "kohana/system"]
+	path = kohana/system
+	url = git://github.com/kohana/core.git
+[submodule "kohana/modules/userguide"]
+	path = kohana/modules/userguide
+	url = git://github.com/kohana/userguide.git
+[submodule "kohana/modules/orm"]
+	path = kohana/modules/orm
+	url = git://github.com/kohana/orm.git
+[submodule "kohana/modules/database"]
+	path = kohana/modules/database
+	url = git://github.com/kohana/database.git
+[submodule "kohana/modules/image"]
+	path = kohana/modules/image
+	url = git://github.com/kohana/image.git
+[submodule "kohana/modules/auth"]
+	path = kohana/modules/auth
+	url = git://github.com/kohana/auth.git
+[submodule "kohana/modules/cache"]
+	path = kohana/modules/cache
+	url = git://github.com/kohana/cache.git
+[submodule "kohana/modules/pagination"]
+	path = kohana/modules/pagination
+	url = git://github.com/ljyf5593/pagination.git
