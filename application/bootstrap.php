@@ -102,6 +102,7 @@ Kohana :: $config -> attach(new Config_File);
  * 这里需要注意的是模块的加载顺序决定的类重载的优先级，最前面的优先级最高
  */
 Kohana :: modules(array(
+	'comment'   => MODPATH.'comment',
     'admin'     => MODPATH.'admin',
     'media'     => MODPATH.'media',
     'pagination' => MODPATH.'pagination',

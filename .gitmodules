@@ -28,3 +28,6 @@
 [submodule "kohana/modules/pagination"]
 	path = kohana/modules/pagination
 	url = git://github.com/ljyf5593/pagination.git
+[submodule "kohana/modules/comment"]
+	path = kohana/modules/comment
+	url = git://github.com/ljyf5593/comment
